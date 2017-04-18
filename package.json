@@ -1,6 +1,7 @@
 {
   "name": "bind.js",
-  "description": "Simple data binding for callbacks & HTML (also node.js compatible).",
+  "version": "0.1",
+  "description": "Simple data binding for callbacks & HTML (also node.js compatible). Fork of http://github.com/remy/bind.js.gi",
   "main": "lib/bind.js",
   "directories": {
     "test": "tests"
@@ -13,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/remy/bind.js.git"
+    "url": "https://github.com/Robbertdk/bind.js.git"
   },
-  "author": "Remy Sharp",
+  "author": "Remy Sharp, Robbert de Kuiper",
   "license": "MIT",
   "keywords": [
     "data-binding",
